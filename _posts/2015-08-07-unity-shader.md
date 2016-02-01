@@ -2,7 +2,7 @@
 layout: post
 title:  "Unity Shader"
 date:   2015-08-07 17:45:27
-categories: lua
+categories: unity
 ---
 
 > 参考:  
@@ -10,11 +10,12 @@ categories: lua
 > 2. [Unity Shaders and Effects Cookbook](http://book.douban.com/subject/24835416/)  
 > 3. [Unity4.x 从入门到精通](http://book.douban.com/subject/25808326/)  
 > 4. [Cg Tutorial](http://book.douban.com/subject/1783861/)  
-> 5. [OpenGL Step by Step](http://ogldev.atspace.co.uk/)
-> 6. [Learn Computer Graphics Programming from Scratch](http://www.scratchapixel.com/)
+> 5. [OpenGL Step by Step](http://ogldev.atspace.co.uk/)  
+> 6. [Learn Computer Graphics Programming from Scratch](http://www.scratchapixel.com/)  
 
-## 基础知识
-
+## 基础知识  
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
 ### 渲染管线
 [渲染管线](http://www.cnblogs.com/alonecat06/archive/2012/09/24/2700747.html)
 渲染管线的基本构成由3个阶段组成：应用程序，几何和光栅化。每一个阶段都可能是一个管线，或者是并行的阶段。
