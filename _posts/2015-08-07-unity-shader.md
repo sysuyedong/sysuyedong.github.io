@@ -14,7 +14,6 @@ categories: unity
 > 6. [Learn Computer Graphics Programming from Scratch](http://www.scratchapixel.com/)  
 
 ## 基础知识  
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 ### 渲染管线
 [渲染管线](http://www.cnblogs.com/alonecat06/archive/2012/09/24/2700747.html)
 渲染管线的基本构成由3个阶段组成：应用程序，几何和光栅化。每一个阶段都可能是一个管线，或者是并行的阶段。
