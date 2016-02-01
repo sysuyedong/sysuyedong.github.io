@@ -10,6 +10,8 @@ categories: lua
 > 2. [Unity Shaders and Effects Cookbook](http://book.douban.com/subject/24835416/)  
 > 3. [Unity4.x 从入门到精通](http://book.douban.com/subject/25808326/)  
 > 4. [Cg Tutorial](http://book.douban.com/subject/1783861/)  
+> 5. [OpenGL Step by Step](http://ogldev.atspace.co.uk/)
+> 6. [Learn Computer Graphics Programming from Scratch](http://www.scratchapixel.com/)
 
 ## 基础知识
 
